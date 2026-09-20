@@ -4,6 +4,12 @@
   <img src="https://github.com/ErenEroglu61.png" alt="Eren Eroğlu" width="200" style="border-radius: 50%;" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErenEroglu61&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ErenEroglu61?style=for-the-badge&label=FOLLOWERS&color=0d6efd&labelColor=1a1a1a" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=TOTAL+STARS&color=ffd700&labelColor=1a1a1a&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FErenEroglu61" alt="Total Stars" />
+</p>
+
 ## About Me
 
 I'm a **3rd-year Computer Engineering student** at **Marmara University**, passionate about building intelligent systems and solving real-world problems through code.
@@ -52,6 +58,13 @@ My closing project for a 100-day Machine Learning course, combining a trained ML
 - Building and experimenting with Python projects across different domains
 - Training and fine-tuning Machine Learning / Deep Learning models
 - Continuously learning new frameworks and best practices in AI
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ErenEroglu61&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Eren's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErenEroglu61&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+</p>
 
 ## 📫 Connect with me
 
