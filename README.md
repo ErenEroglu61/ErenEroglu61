@@ -1,4 +1,4 @@
-# Hi there My Name is Eren👋
+# Hi there 👋
 
 <p align="center">
   <img src="https://github.com/ErenEroglu61.png" alt="Eren Eroğlu" width="200" style="border-radius: 50%;" />
@@ -38,7 +38,7 @@ My closing project for a 100-day Machine Learning course, combining a trained ML
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
 <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
@@ -60,7 +60,7 @@ My closing project for a 100-day Machine Learning course, combining a trained ML
 
 ## 📫 Connect with me
 
-<p>
+<p align="center">
 <a href="https://github.com/ErenEroglu61"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/eren-ero%C4%9Flu"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:erensena61@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
