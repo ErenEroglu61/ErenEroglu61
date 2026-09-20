@@ -40,14 +40,9 @@ My closing project for a 100-day Machine Learning course, combining a trained ML
 
 <p align="center">
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
 <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" /></a>
 <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
-<a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" /></a>
-<a href="https://seaborn.pydata.org/"><img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" /></a>
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
